@@ -1,0 +1,11 @@
+@import "custom";
+
+@import "../../bootstrap/scss/bootstrap.scss";
+
+body{
+    background-color: $body-bg;
+}
+
+header{
+    background: $header-bg;
+}
